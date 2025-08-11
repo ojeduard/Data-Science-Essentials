@@ -1,0 +1,12 @@
+Percentage of emojis with positive sentiment: 82.42%
+Percentage of popular emojis with positive sentiment: 90.0%
+Most positive emoji with more than 500 occurrences:
+emoji  percentage_positive
+    ❤                 0.79
+Most negative emoji with more than 500 occurrences:
+emoji  percentage_negative
+    😒                0.591
+Emojis are most often located at the: End
+Positive emojis are most often located at the: End
+Negative emojis are most often located at the: End
+Positive and negative emojis share the same predominant location: Yes
