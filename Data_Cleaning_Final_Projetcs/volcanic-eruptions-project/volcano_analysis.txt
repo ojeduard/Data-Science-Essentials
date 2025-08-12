@@ -1,0 +1,56 @@
+Volcanoes active in December 2024:
+ volcano_id          volcano_name          country start_date   end_date
+     211040             Stromboli            Italy 1934-02-01 2024-12-01
+     211060                  Etna            Italy 2022-11-01 2024-12-01
+     221080              Erta Ale         Ethiopia 1967-07-01 2024-12-01
+     222120     Lengai, Ol Doinyo         Tanzania 2017-04-01 2024-12-01
+     223020           Nyamulagira         DR Congo 2018-04-01 2024-12-01
+     234010                 Heard        Australia 2012-09-01 2024-12-01
+     241040 Whakaari/White Island      New Zealand 2024-05-01 2024-12-01
+     243060                 Tofua            Tonga 2015-10-01 2024-12-01
+     243080             Home Reef            Tonga 2024-12-01 2024-12-01
+     251020                 Manam Papua New Guinea 2018-05-01 2024-12-01
+     252010               Langila Papua New Guinea 2015-10-01 2024-12-01
+     256010              Tinakula  Solomon Islands 2018-12-01 2024-12-01
+     261140                Marapi        Indonesia 2023-12-01 2024-12-01
+     263250                Merapi        Indonesia 2020-12-01 2024-12-01
+     263300                Semeru        Indonesia 2017-06-01 2024-12-01
+     263340                 Raung        Indonesia 2024-12-01 2024-12-01
+     264180              Lewotobi        Indonesia 2023-12-01 2024-12-01
+     268010                Dukono        Indonesia 1933-08-01 2024-12-01
+     268030                   Ibu        Indonesia 2008-04-01 2024-12-01
+     272020               Kanlaon      Philippines 2024-10-01 2024-12-01
+     273070                  Taal      Philippines 2024-04-01 2024-12-01
+     282030          Suwanosejima            Japan 2004-10-01 2024-12-01
+     282080                  Aira            Japan 2017-03-01 2024-12-01
+     284141                  Ahyi    United States 2024-08-01 2024-12-01
+     290380                 Ebeko           Russia 2022-06-01 2024-12-01
+     300130              Karymsky           Russia 2024-06-01 2024-12-01
+     300270             Sheveluch           Russia 1999-08-01 2024-12-01
+     311120          Great Sitkin    United States 2021-05-01 2024-12-01
+     332010               Kilauea    United States 2024-12-01 2024-12-01
+     341090          Popocatepetl           Mexico 2005-01-01 2024-12-01
+     342030           Santa Maria        Guatemala 1922-06-01 2024-12-01
+     342090                 Fuego        Guatemala 2002-01-01 2024-12-01
+     344100                Masaya        Nicaragua 2015-10-01 2024-12-01
+     345020    Rincon de la Vieja       Costa Rica 2021-06-01 2024-12-01
+     351020      Ruiz, Nevado del         Colombia 2014-11-01 2024-12-01
+     352010            Reventador          Ecuador 2008-07-01 2024-12-01
+     352090                Sangay          Ecuador 2019-03-01 2024-12-01
+     354006             Sabancaya             Peru 2016-11-01 2024-12-01
+     357120            Villarrica            Chile 2014-12-01 2024-12-01
+     371020             Reykjanes          Iceland 2023-12-01 2024-12-01
+     390020                Erebus       Antarctica 1972-12-01 2024-12-01
+
+Longest volcanic eruption:
+ volcano_id volcano_name          country start_date   end_date volcanic_eruption_period
+     342030  Santa Maria        Guatemala 1922-06-01 2024-12-01               37439 days
+     268010       Dukono        Indonesia 1933-08-01 2024-12-01               33360 days
+     211040    Stromboli            Italy 1934-02-01 2024-12-01               33176 days
+     352090       Sangay          Ecuador 1934-08-01 2011-03-01               27971 days
+     332010      Kilauea    United States 1823-02-01 1894-12-01               26236 days
+     282080         Aira            Japan 1955-10-01 2016-08-01               22220 days
+     221080     Erta Ale         Ethiopia 1967-07-01 2024-12-01               20973 days
+     390020       Erebus       Antarctica 1972-12-01 2024-12-01               18993 days
+     223030   Nyiragongo         DR Congo 1927-03-01 1977-01-01               18204 days
+     253030      Victory Papua New Guinea 1890-01-01 1935-01-01               16435 days
